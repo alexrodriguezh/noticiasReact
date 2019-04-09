@@ -34,7 +34,7 @@ class App extends Component {
           <Header 
             titulo = "Noticias del día"
           />
-        <div className="container white contenedor-noticias">
+        <div className="white">
             <Formulario 
               consultarNoticias = {this.consultarNoticias}
             />

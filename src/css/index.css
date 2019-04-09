@@ -45,3 +45,7 @@ h2 {
 .enviar input[type="submit"] {
   width: 100%;
 }
+.tablaCiudad{
+  background: #039be5;
+  color: white;
+}
